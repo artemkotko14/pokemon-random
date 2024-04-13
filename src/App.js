@@ -1,7 +1,5 @@
-import RandomPokemon from "../RandomPokemon";
-function Greeter() {
-  return <h1>Hello</h1>;
-}
+import "./styles.css";
+import RandomPokemon from "./RandomPokemon";
 
 export default function App() {
   return (
