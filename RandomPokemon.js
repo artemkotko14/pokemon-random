@@ -9,7 +9,7 @@ export default function RandomPokemon() {
   return (
     <div className="RandomPokemon">
       <h1>Pokemon# {random}</h1>
-      <img src={baseUrl + random + ".png"} alt={"Pokemon# + random"} />
+      <img src={baseUrl + random + ".png"} alt={"Pokemon#" + random} />
     </div>
   );
 }
