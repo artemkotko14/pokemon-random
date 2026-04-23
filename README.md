@@ -1,2 +1,2 @@
 # pokemon-random
-Created with CodeSandbox.
+Created with CodeSandbox
